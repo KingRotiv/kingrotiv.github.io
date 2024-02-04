@@ -1,14 +1,14 @@
 * {
-  font-family: 'Courier New';
-  text-shadow: -2px 0 green,
-               0 2px green,
-               2px 0 green,
-               0 -2px green;
-  color: black;
+  font-family: 'Anonymous', monospace;
+  text-shadow: -1px 0 black,
+               0 1px black,
+               1px 0 black,
+               0 -1px black;
+  color: green;
 }
 
 body {
-  background-color: black;
+  background-color: #212121;
   padding: 0 8px 0 8px;
 }
 
@@ -25,10 +25,10 @@ header h1 {
 }
 
 .nome:hover {
-  text-shadow: -2px 0 green,
-               0 2px green,
-               2px 0 green,
-               0 -2px green;
+  text-shadow: -1px 0 green,
+               0 1px green,
+               1px 0 green,
+               0 -1px green;
   color: white;
 }
 
